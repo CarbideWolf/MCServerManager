@@ -8,4 +8,4 @@ Features:
 - Run a backup every hour (save-all server command and file copy)
 - Send text written into console window to server as commands
 
-If you don't like console applications I hava a version 2.0 with a GUI here: https://github.com/CarbideWolf/MCServerManager-v2.0
+If you don't like console applications I have a version 2.0 with a GUI here: https://github.com/CarbideWolf/MCServerManager-v2.0
